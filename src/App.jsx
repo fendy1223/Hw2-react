@@ -55,7 +55,6 @@ function App() {
   };
 
   // const checkUserLogin = async () => {
-  //   axios;
   //   try {
   //     await axios.post(`${VITE_BASE_URL}/v2//api/user/check`);
   //     alert("使用者已登入");
